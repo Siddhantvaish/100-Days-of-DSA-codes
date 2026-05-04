@@ -2,11 +2,6 @@
 
 // Implement the solution for this problem.
 
-// Input:
-// - Input specifications
-
-// Output:
-// - Output specifications
 
 #include <stdio.h>
 #include <stdlib.h>
